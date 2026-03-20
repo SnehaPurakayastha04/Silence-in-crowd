@@ -138,6 +138,13 @@ The simulation includes:
 
 *(Insert your graph and animation here)*
 
+<img width="631" height="472" alt="Screenshot 2026-03-20 at 7 02 28 PM" src="https://github.com/user-attachments/assets/8ef93371-6aa6-4a76-8bae-1d05dc60c9bf" />
+
+
+<img width="631" height="472" alt="Screenshot 2026-03-20 at 7 03 07 PM" src="https://github.com/user-attachments/assets/71bd330a-2890-4469-83e2-674d2e389fae" />
+
+
+
 ---
 
 ## How to Run
