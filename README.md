@@ -152,8 +152,8 @@ The simulation includes:
 ### 1. Clone the repository
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/Silence-in-the-Crowd.git
-cd Silence-in-the-Crowd
+git clone https://github.com/YOUR_USERNAME/Silence-in-crowd.git
+cd Silence-in-crowd
 ```
 
 ### 2. Create virtual environment (optional)
